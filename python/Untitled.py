@@ -1,0 +1,1 @@
+coolVar = "hello world"

@@ -1,0 +1,3 @@
+import Untitled
+
+print(coolVar)
