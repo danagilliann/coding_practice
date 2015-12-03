@@ -13,5 +13,5 @@ def decimal_to_bin(n):
         count += 1
         decimal_to_bin(n/2)
 
-decimal_to_bin(25)
+decimal_to_bin(27)
 
